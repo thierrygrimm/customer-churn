@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# Predict Customer Churn
+# Predict Customer Churn [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFQXNQ7UYXYKW&source=url)
 
 
 <details>
@@ -9,7 +9,7 @@
       <a href="#project-description">Project description</a>
     </li>
     <li>
-      <a href="#about-the-project">Files and data description</a>
+      <a href="#files-and-data-description">Files and data description</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -126,13 +126,13 @@ The argument ```-v``` is optional to see which function was tested
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgements
+## Acknowledgments
 * The dataset is open source and stems from LEAPS Analyttica. It consists of 10,000 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc.
 * The project is part of the ML DevOps Engineer Udacity Nanodegree.
 
 ## Issues
 
-Found a bug? Want more features? Find something missing in the documentation? Let me know! Please don't hesitate to [file an issue](https://github.com/thierrygrimm/) and make a recommendation.
+Found a bug? Want more features? Find something missing in the documentation? Let me know! Please don't hesitate to [file an issue](https://github.com/thierrygrimm/CustomerChurn/issues/new) and make a recommendation.
 
 
 
@@ -145,7 +145,7 @@ The MIT License (MIT)
 Copyright (c) 2023 Thierry Grimm
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software ("ECG") and associated documentation files (the "Software"), to deal
+of this software ("Customer Churn") and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
