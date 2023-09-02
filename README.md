@@ -96,12 +96,12 @@ Overall the `Random Forest` model seems to have better performance as is visible
 
 The `Random Forest` forest has a weighted average F1-score of 0.93.
 
-<img src="images/results/metrics_rf.png" width="300">
+<img src="images/results/metrics_rf.png" width="350">
 
 
 The `Logistic regression` forest has a slightly lower weighted average F1-score of 0.89.
 
-<img src="images/results/metrics_lr.png" width="300">
+<img src="images/results/metrics_lr.png" width="350">
 
 
 Both models display a better performance on the majority class, which is to be expected.
@@ -112,7 +112,7 @@ To ensure the model makes transparent predictions methods of explainable AI (XAI
 
 One such method is the feature importance through ```Shapley``` values:
 
-![features](images/results/feature_importance.png "features")
+<p align="center"><img src="images/results/feature_importance.png" width="500"></p>
 
 According to this analysis the most impactful feature is the total transaction count in the last 12
 months```Total_Trans_Ct```. This feature follows a bimodal distribution.
