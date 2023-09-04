@@ -8,7 +8,6 @@
 
 [![](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white 'Jupyter')](http://jupyter.org)
 [![](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white 'Pytest')](https://docs.pytest.org)
-
 [![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white 'Scikit-learn')](https://scikit-learn.org)
 
 </div>
