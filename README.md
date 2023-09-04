@@ -4,6 +4,15 @@
 
 # Predict Customer Churn [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFQXNQ7UYXYKW&source=url)
 
+<div align='left'>
+
+[![](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white 'Jupyter')](http://jupyter.org)
+[![](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white 'Pytest')](https://docs.pytest.org)
+
+[![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white 'Scikit-learn')](https://scikit-learn.org)
+
+</div>
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -129,13 +138,13 @@ The second most important is the total transaction amount. On the third place is
 
 Make sure all module requirements are met or install them with:
 
-~~~
+~~~bash
 python -m pip install -r requirements_py3.6.txt
 ~~~
 
 or alternatively for ```python==3.8```
 
-~~~
+~~~bash
 python -m pip install -r requirements_py3.8.txt
 ~~~
 
@@ -156,13 +165,13 @@ Upon **execution**:
 
 The program can be run interactively:
 
-~~~
+~~~bash
 ipython churn_library.py 
 ~~~
 
 or also purely from the command line (CLI):
 
-~~~
+~~~bash
 python churn_library.py 
 ~~~
 
@@ -174,13 +183,13 @@ This project is built with unit tests which also log any errors, info and warnin
 
 To test all functions and log the respective results, please run:
 
-~~~
+~~~bash
 ipython churn_script_logging_and_tests.py 
 ~~~
 
 To test a single function ```function_of_interest``` run:
 
-~~~
+~~~bash
 pytest -v churn_script_logging_and_tests.py::function_of_interest
 ~~~
 
@@ -197,7 +206,7 @@ The argument ```-v``` is optional to see which function was tested
 ## Issues
 
 Found a bug? Want more features? Find something missing in the documentation? Let me know! Please don't hesitate
-to [file an issue](https://github.com/thierrygrimm/CustomerChurn/issues/new) and make a recommendation.
+to [file an issue](https://github.com/thierrygrimm/customer-churn/issues/new) and make a recommendation.
 
 ## License
 
